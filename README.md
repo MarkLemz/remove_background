@@ -1,16 +1,16 @@
 # 1. Título do Trabalho
-[Introdução à Visão Computacional: Estúdio Virtual com IA e MediaPipe]
+[Introdução à Visão Computacional: Estúdio Virtual com IA, MediaPipe e Streamlit]
 
 ---
 
 # 2. Integrantes do Grupo
-* **Nome:** [Seu Nome Completo]
-* **Matrícula:** [Sua Matrícula]
+* **Nome: Marcos Vinícius Lemos Souza e Nicolas Silva B. Pereira
+* **Matrícula: 20250028491 e 20250042525
 
 ---
 
 # 3. Descrição do Projeto
-Este trabalho aplica os fundamentos de programação Python na área de Visão Computacional, utilizando a biblioteca OpenCV e MediaPipe. O projeto evolui da "Tarefa Mínima" (reprodução de um tutorial) para um sistema robusto de "Estúdio Virtual", demonstrando as melhorias e aperfeiçoamentos exigidos para a nota máxima, incluindo o uso de IA para segmentação de imagem e a criação de uma interface de usuário otimizada.
+Este trabalho aplica os fundamentos de programação Python na área de Visão Computacional, utilizando a biblioteca OpenCV, MediaPipe e Streamlit. O projeto evolui da "Tarefa Mínima" (reprodução de um tutorial) para um sistema robusto de "Estúdio Virtual", demonstrando as melhorias e aperfeiçoamentos exigidos para a nota máxima, incluindo o uso de IA para segmentação de imagem e a criação de uma interface de usuário otimizada.
 
 ---
 

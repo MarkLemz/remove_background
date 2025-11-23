@@ -94,3 +94,6 @@ streamlit run app_estudio_virtual.py
 * **Solução (`app_estudio_virtual.py`):** Combinamos todas as melhorias em um "Estúdio Virtual", onde o usuário tem controle total:
     * **Controle de PiP:** Sliders para Zoom, Posição X e Posição Y.
     * **Design Polido:** Um tema escuro profissional foi aplicado com CSS customizado, escondendo elementos desnecessários do Streamlit para criar uma aparência de aplicativo de desktop.
+
+
+    Link do video: https://youtu.be/1yRhd3j8dQo

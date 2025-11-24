@@ -57,7 +57,7 @@ python projeto_base_.py
 > Primeiro aperfeiçoamento: substitui o método HSV por Inteligência Artificial (MediaPipe) para segmentação de selfie. O resultado é muito superior e não depende de um fundo verde. Pressione 'ESC' para sair.
 
 ```bash
-python projeto_ia.py
+python projeto_IA.py
 ```
 
 **Nível 3: Projeto Final (Estúdio Virtual com Streamlit)**

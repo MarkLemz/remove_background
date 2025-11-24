@@ -20,8 +20,8 @@ Siga os passos abaixo para configurar e executar os projetos.
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [URL-DO-SEU-REPOSITÓRIO-AQUI]
-cd [NOME-DO-SEU-REPOSITÓRIO]
+git clone https://github.com/MarkLemz/remove_background
+cd remove_background
 ```
 
 ### 2. Criar e Ativar Ambiente Virtual
@@ -50,21 +50,21 @@ O código está organizado em níveis de aperfeiçoamento:
 > Este script representa a reprodução fiel do tutorial, usando detecção de cor (HSV) e OpenCV. Pressione 'ESC' para sair.
 
 ```bash
-python projeto_base_hsv.py
+python projeto_base_.py
 ```
 
 **Nível 2: Melhoria (IA + OpenCV)**
 > Primeiro aperfeiçoamento: substitui o método HSV por Inteligência Artificial (MediaPipe) para segmentação de selfie. O resultado é muito superior e não depende de um fundo verde. Pressione 'ESC' para sair.
 
 ```bash
-python projeto_melhorado_ia.py
+python projeto_ia.py
 ```
 
 **Nível 3: Projeto Final (Estúdio Virtual com Streamlit)**
 > Esta é a versão final, que atende aos critérios de excelência. É uma aplicação web completa, otimizada e com interface de usuário.
 
 ```bash
-streamlit run app_estudio_virtual.py
+streamlit run projeto_site.py
 ```
 * (Opcional) Adicione um arquivo `background.jpg` na pasta para testar o fundo virtual.
 
